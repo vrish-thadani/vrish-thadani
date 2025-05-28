@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning all widely used coding languagesn
 - 📫 How to reach me 2024.vrisht@isu.ac.in
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i had no interest in coding but the last 6 months have proved me wrong
-- 
+- ⚡ Fun fact: i had no interest in coding but the last few months have proved me wrong
+  
 
 <!---
 vrish-thadani/vrish-thadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
